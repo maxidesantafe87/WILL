@@ -14,7 +14,6 @@ function soloNumeros(array) {
   
 
   var arraynuevo = [];
-
   for(let i = 0; i < array.length ; i++){
   if( typeof array[i] === "number"){
   arraynuevo.push(array[i]);

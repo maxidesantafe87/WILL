@@ -20,6 +20,7 @@ function stringMasLarga(strings) {
     }
   }
 
+
   return contarStrings;
 }
 

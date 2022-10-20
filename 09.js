@@ -49,7 +49,6 @@ console.log(productos.filtrar(function(p) {
   return p.price >= 70;
 }));
 
-
 };
 
 

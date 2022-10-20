@@ -23,6 +23,7 @@ function buscarAmigo(amigos, nombre) {
 }
 return null;
   
+
 }
 
 // No modifiques nada debajo de esta linea //
